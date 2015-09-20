@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, Helvetica, sans-serif;  
+   	color: white;
+}
+
+body {
+	/*margin-left: 400px;*/
+	background: URL('http://www.lancefarrow.ca/wp-content/uploads/2014/06/triangle-background-17.png');
+}
+
+#header {
+	text-align: center;
+}
+
+#container {
+	margin: auto;
+	width: 800px;
+	height: 600px;
+	
+}
+
+#footer {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
